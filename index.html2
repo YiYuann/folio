@@ -1,10 +1,21 @@
-<!DOCTYPE html>
-<html>
-
-<h1> a very interesting heading </h1>
-
-<body>
-wow lots of content 
+<head>👋 testing123
+  <meta charset="utf-8" />
+ <title>computing</title>
+</head>
+<body>  
+   <h1> my portfolio <3 <h1>
+   <p> i am a very very good student </p>
+   <h2> education </h2>
+   <ul>
+     <li> plvps </li>
+     <li> bwss </li>
+     <li> <a href="https://asrjc.moe.edu.sg/">asrjc </li>
+  </ul2>
+     <img src="https://cdnb.artstation.com/p/assets/images/images/056/186/899/large/anime-axolotl-2fa2d056-c4dc-4231-8692-8bba87927694.jpg?1668641694" alt='comfort streamer' width="160" height="200" />
+     <form>
+       <label for+"text">Enter your text:</label>
+       <input type="text" id="text" name="text" >
+       <button type="submit">Send me data</button>
+       <p> Heres a heart emoji:  &#128153;</p>   &#128153; 
+       <p>&#x1F480; This is a skull emoji!</p>
 </body>
-
-</html>
